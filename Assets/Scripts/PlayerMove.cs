@@ -1,6 +1,4 @@
-using UnityEditor.Build;
 using UnityEngine;
-using static UnityEditor.Searcher.SearcherWindow.Alignment;
 
 public class PlayerMove : MonoBehaviour
 {
